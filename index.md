@@ -1,3 +1,3 @@
-# Bienvenida a mi blog
+# Bienvenida a mi pagina personal
 
-Me alegro de que estés aquí. Pienso hablar acerca de ...
+Me alegro de que estés aquí. 
